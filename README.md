@@ -1,1 +1,2 @@
-One of my favourite APIs: random joke of the day
+- One of my favourite APIs: random joke of the day
+- the answer to the joke appears after 3 sec for a better UX 😉
